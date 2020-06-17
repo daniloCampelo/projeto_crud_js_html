@@ -5,6 +5,9 @@
 2 - Configure o banco de dados
 
 host: localhost
+
 username: root
+
 password: 
+
 dbname: top_filmes
